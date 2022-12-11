@@ -1,0 +1,9 @@
+
+parking
+internet
+indoor
+outdoor
+pool
+smoking room
+wifi
+spa

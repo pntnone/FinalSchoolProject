@@ -1,0 +1,38 @@
+
+restaurant
+taverna restaurant
+taverna
+coffeehouse restaurant
+brasserie restaurant
+steakhouse
+food
+bar restaurant
+bakery
+cafeteria
+joint restaurant
+joint
+delicatessen
+coffeehouse
+pub restaurant
+churrascaria restaurant
+churrascaria
+pub
+bar
+bistro
+oyster bar
+fast food restaurant
+food court
+fast food
+osteria restaurant
+cafe
+tea house
+pizzeria
+fast food joint
+pizzeria restaurant
+osteria
+restaurant joint
+food truck
+brasserie
+diner
+gastropub
+tavern

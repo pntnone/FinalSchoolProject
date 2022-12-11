@@ -1,0 +1,19 @@
+{
+  "intents": "BookRestaurant",
+  "slots": [
+    "sort",
+    "city",
+    "spatial_relation",
+    "cuisine",
+    "country",
+    "timeRange",
+    "party_size_description",
+    "restaurant_type",
+    "facility",
+    "state",
+    "restaurant_name",
+    "party_size_number",
+    "served_dish",
+    "poi"
+  ]
+}

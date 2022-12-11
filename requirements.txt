@@ -1,0 +1,4 @@
+numpy
+tqdm==4.32.1
+pytorch
+cudatoolkit==9.2
